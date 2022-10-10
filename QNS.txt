@@ -1,0 +1,8 @@
+1. find the longest movie name 
+2. find the number of movies which got 10 star rating 
+3.how many indutries are there 
+4.find the least like comedy movies name
+5.find the longest movies 
+6.what is the grnre of intersteller 
+7.what is the average duration of each genre 
+8.what is avg ra

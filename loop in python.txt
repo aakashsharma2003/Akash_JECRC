@@ -1,0 +1,21 @@
+1. loop:
+1.for loop
+2.while loop
+ 
+for i in [1,2,3,4,5]
+        print(i)
+--------------------------
+function:
+--------
+1.NO i/p NO o/p
+1.NO i/p BUT o/p
+1.i/p nut NO o/p
+1.o/p and i/p
+--------------------------
+1.Taking multiple i/p
+2.Returning Multiple o/p
+3.Default Values 
+5.*args
+6.**kwargs
+
+

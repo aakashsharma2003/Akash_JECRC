@@ -1,0 +1,41 @@
+data type dictionary
+---------------------
+1.unordered
+2.key value pair
+3.indexing/slicing not possible 
+-------------------------------
+3.statements
+1.condition/decision making---if elif--else(suites/indenation)
+2.looping--for and while 
+3.exception handing----try,except
+----------------------------------------------------------------
+simple if 
+---------
+if age<18:
+   printf(a gift
+if age>=18 and age<=20:
+   printf('a gift')
+   printf('a task')
+if age>20:
+         printf('koi gift nahi hai')
+-------------------------------------
+Ladder
+-----------
+if age<18:
+   print(' a gift ')
+elif age>=18 and age <=20:
+    print('a task')
+else:
+  print('koi gift nhi hai')
+----------------------------------------
+Nested
+----------
+if today=='saturady':
+ print('half day')
+elif today=='sunday'
+  if condition =='sick':
+        print'take rest')
+  else:
+       print('party')
+-------------------------------------------------
+range[start point(including),stop(excluding),step(by default: 0)]

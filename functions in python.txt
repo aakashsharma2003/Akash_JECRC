@@ -1,0 +1,12 @@
+..=capitalize-----convert the first letter of the string to the capital
+1. cat ----- contantination 
+2. center-------will keep space reservered on the left and the right side.
+3.casefold-------convert to lower case
+4.count-----counts all the attributes in the series
+5.endswith('__')--- search keywords ends with given input
+6.get-----give the first letter of all the strings.
+7.get_dummies------divide the categorical data(imp function)
+8.find------position of the data as a count
+9.join------it will add a char after every element in the string
+10.split---It will split the list with the given char every time it encounters
+11.strip---it will remove the spaces/char at the starting and the ending of the string 

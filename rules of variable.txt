@@ -1,0 +1,13 @@
+rules of variables
+-------------------
+1.can't start with number
+ex.1=python, a1='python'
+
+2. no space 
+a 1='python'
+
+3, can't use special character
+a$=hello ; a_1=hi;  _=200
+ 
+4,can't use keyword 
+for =2.2
